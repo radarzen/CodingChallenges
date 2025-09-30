@@ -1,1 +1,24 @@
-CHALLENGE:  Write a program that will allow a manager to determine and display the total sales for the department.
+CHALLENGE:  sales.c
+Write a program that will allow a manager to determine and display the total sales for
+the department. The manager will enter the sales goal for the month. Then the manager
+will enter (input) the sales for each salesperson for four (4) weeks. After each
+salesperson, the program should ask the manager if there is another. Once all the sales
+are entered the program will accumulate the total sales for the department.
+Display the total number of employees in the department and total sales for the
+department. The manager earns a 2% bonus on all sales for the month. If the total
+department’s sales exceed the sales goal, then the manager’s bonus is 5% of the total
+sales. Determine and display the sales goal and manager’s bonus amount.
+Hint: two loops are required – use a loop to allow for another salesperson’s monthly
+sales to be entered and a second loop for the four (4) weeks of sales of the individual
+salesperson.
+Some sample Input/Output is provided on the next page. The output is based on the
+input for two (2) employees one with weekly sales of (1200, 1300, 1250, 2250) and
+second salesperson’s sales (2399, 2103, 1900, 1000). Sales goal for the month -
+$11000.
+Display screenshots of at least 4 instances of the program:
+• one with at least 2 employees in the department
+• one with at least 3 salespersons in the department
+• one where the sales goal is exceeded
+• one where the sales goal is not met.
+
+*You can take a screenshot or post on github and share it*
